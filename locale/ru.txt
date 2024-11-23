@@ -1,0 +1,101 @@
+#: locale=ru
+
+## Действие
+
+### URL
+LinkBehaviour_44BEA463_5335_7FC6_41D4_514367BAC1AE.source = http://twitter.com/loremipsum
+LinkBehaviour_44BE7463_5335_7FC6_41C0_7AB1803BE1CF.source = http://www.facebook.com/loremipsum
+LinkBehaviour_44BE1462_5335_7FC6_41C3_FF6E9E7F6B73.source = http://www.facebook.com/loremipsum
+LinkBehaviour_44BE6463_5335_7FC6_41C7_3016CF76D8C1.source = http://www.twitter.com/loremipsum
+LinkBehaviour_44BE5463_5335_7FC6_417E_97B1F06C1ACD.source = https://www.loremipsum.com
+
+## Медиа
+
+### Заголовок
+photo_6DDEFCEA_533F_48C6_41D2_C5ADA7C41EA1.label = 289af148-68f2-40be-9459-e7035d6ee1e3
+photo_6DDEFCEA_533F_48C6_41D2_C5ADA7C41EA1.label = 289af148-68f2-40be-9459-e7035d6ee1e3
+photo_6DD9C313_533F_7946_419E_658E33A105CF.label = 289e2759-5bf8-47b4-bd0c-df509b5ffbaa
+photo_6DD9C313_533F_7946_419E_658E33A105CF.label = 289e2759-5bf8-47b4-bd0c-df509b5ffbaa
+panorama_4DF39199_536F_5942_41D0_AE0653C434FF.label = IMG_0971
+panorama_4DF3C323_536F_7946_41BD_B1A25CDE23B2.label = IMG_0972
+panorama_4DF3E4EF_536F_58DE_41C2_1AED0F355E2A.label = IMG_0973
+panorama_4DF396AF_536F_3B5E_41D2_E5EF91C4B46A.label = IMG_0974
+panorama_4DF3F875_536F_D7C2_41C6_D27F18349D55.label = IMG_0975
+panorama_4DF3DA40_536F_CBC2_41CE_263CBF20BF71.label = IMG_0976
+panorama_4DF3ABDC_536F_C8C2_41B7_E41C8ED617AD.label = IMG_0977
+panorama_4C4E499E_536E_C97E_41C4_8A01DBBB2DDB.label = IMG_0978
+album_6D0FF474_532D_3FC2_41A6_9EE118B8AEB4_0.label = IMG_6145
+album_6D0FF474_532D_3FC2_41A6_9EE118B8AEB4_2.label = IMG_6147
+album_6D0FF474_532D_3FC2_41A6_9EE118B8AEB4_4.label = IMG_6149
+album_6D0FF474_532D_3FC2_41A6_9EE118B8AEB4_5.label = IMG_6150
+photo_6D3D16FF_533F_58BE_41BA_9D888A925312.label = a90ae09b-30a3-4664-9edc-0e56335bb767
+photo_6D3D16FF_533F_58BE_41BA_9D888A925312.label = a90ae09b-30a3-4664-9edc-0e56335bb767
+photo_6DDEDAF5_533F_48C2_41AB_3E34F08B2CEE.label = bbf886b2-195c-4b81-aa62-410d58725cc3
+photo_6DDEDAF5_533F_48C2_41AB_3E34F08B2CEE.label = bbf886b2-195c-4b81-aa62-410d58725cc3
+photo_6B5E34AF_533F_5F5E_41AD_70C1AB041A01.label = bc4cd92e-4015-49c0-a0b1-126e71a493ef
+photo_6B5E34AF_533F_5F5E_41AD_70C1AB041A01.label = bc4cd92e-4015-49c0-a0b1-126e71a493ef
+photo_6DDE40F8_533F_78C2_41A3_A860D760161E.label = d89a13b8-575e-40a5-97cc-55ced0a9f44f
+photo_6DDE40F8_533F_78C2_41A3_A860D760161E.label = d89a13b8-575e-40a5-97cc-55ced0a9f44f
+photo_6DDF78FA_533F_48C6_41C5_FF8DE441D154.label = eb8027e8-0379-4d81-a3e8-82dedb28e6d4
+photo_6DDF78FA_533F_48C6_41C5_FF8DE441D154.label = eb8027e8-0379-4d81-a3e8-82dedb28e6d4
+photo_6DDE5EEA_533F_48C6_41B8_AF6C89632834.label = f40d343c-1f77-4654-919d-a3579bbd6992
+photo_6DDE5EEA_533F_48C6_41B8_AF6C89632834.label = f40d343c-1f77-4654-919d-a3579bbd6992
+album_6D0FF474_532D_3FC2_41A6_9EE118B8AEB4.label = Фото пльбом
+
+### Изображение
+imlevel_4DABAF28_57C5_3872_41D0_D0545220E858.url = media/popup_685B6876_532D_57CB_41BC_679F90CFAE06_ru_0_0.jpg
+imlevel_4DAB4F28_57C5_3872_41BD_A40AE42EF496.url = media/popup_685B6876_532D_57CB_41BC_679F90CFAE06_ru_0_1.jpg
+imlevel_4DAB6F28_57C5_3872_41B7_08E72A7C56C4.url = media/popup_685B6876_532D_57CB_41BC_679F90CFAE06_ru_0_2.jpg
+imlevel_4DAB0F28_57C5_3872_41BF_B059D4B2AC6E.url = media/popup_685B6876_532D_57CB_41BC_679F90CFAE06_ru_0_3.jpg
+imlevel_4DA63486_57C5_083E_41C4_370D5C8112D6.url = media/popup_68C5489F_532B_377E_41C6_C882A79908AA_ru_0_0.jpg
+imlevel_4DA60486_57C5_083E_41D5_60E6661B3BD3.url = media/popup_68C5489F_532B_377E_41C6_C882A79908AA_ru_0_1.jpg
+imlevel_4DA5E486_57C5_083E_41CF_F081924A8CD9.url = media/popup_68C5489F_532B_377E_41C6_C882A79908AA_ru_0_2.jpg
+imlevel_4DA5C487_57C5_083E_41B2_ADAD14B6953E.url = media/popup_68C5489F_532B_377E_41C6_C882A79908AA_ru_0_3.jpg
+imlevel_4D92C9AF_57C5_384E_41D1_74CCB45833B9.url = media/popup_6BA0B38F_532D_395E_41CA_16D7292240D9_ru_0_0.jpg
+imlevel_4D92E9AF_57C5_384E_41C2_04161E9C06C9.url = media/popup_6BA0B38F_532D_395E_41CA_16D7292240D9_ru_0_1.jpg
+imlevel_4D9289AF_57C5_384E_41C6_9572AEE11422.url = media/popup_6BA0B38F_532D_395E_41CA_16D7292240D9_ru_0_2.jpg
+imlevel_4D92B9AF_57C5_384E_41A5_E8800423AAAD.url = media/popup_6BA0B38F_532D_395E_41CA_16D7292240D9_ru_0_3.jpg
+
+### Поп-ап изображение
+
+## Скин
+
+### Image
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile_ru.png
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_ru.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile_ru.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_ru.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile_ru.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_ru.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile_ru.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_ru.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_ru.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_ru.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile_ru.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_ru.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile_ru.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_ru.jpeg
+
+### Кнопка
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º ВИД
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º ВИД
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = ИНФОРМАЦИЯ
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = ИНФОРМАЦИЯ
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = ФОТОАЛББОМ
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = ФОТОАЛЬБОМ
+
+### Многострочный текст
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.849999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.85vmin;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:6.15vmin;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.6999999999999975vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';"><B>General Data:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.6999999999999975vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4.7vmin;font-family:'Roboto Black';"><B>Year 2019 / 51.214 kms / Diesel / 5 doors / 90 cv / Manual</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:9.04vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.04vmin;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.57vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.570000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>BMW X5 M50D (G05/G18)</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Превосходство по всем направлениям: автомобили BMW X5 M50D заявляют о своем превосходстве благодаря мощным пропорциям, эксклюзивному дизайну М и выдающимся эксплуатационным характеристикам. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">BMW X5 M50d поражают уникальным сочетанием эксплуатационных характеристик, комфорта и экономичности. BMW X5 M50d  удивляет роскошным салоном и динамикой, обеспеченной автоспортивными генами. Еще больший прилив адреналина вызывает BM</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Год 2019 / 51.214 km / Дизель / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 дверей/ 400 л.с / автоматическая</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.429999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>BMW X5 M50D</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;font-size:52.97589999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:52.98px;font-family:'Exo';"><B><I>BMW X5  M50D</I></B></SPAN></SPAN></DIV></div>
+
+## Тур
+
+### Заголовок
+tour.name = BMW X5 M50D
+
+### Описание
